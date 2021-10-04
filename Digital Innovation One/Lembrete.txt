@@ -1,0 +1,35 @@
+#Instalar
+- Node.js
+  #Conferir a versão
+  > noode -v 
+
+- Npm install
+  #Conferir a versão
+  > npm -v
+
+
+- Angular cli
+  > npm install -g @angular/cli
+  #Conferir a versão
+  > ng version
+
+- Visual studio code
+
+#Iniciar o servidor (Ler erro)
+ >ng serve
+#Acesssar http://localhost:4200/
+
+#Erro
+#não pode ser carregado porque a execução de scripts foi desabilitada neste sistema. Para obter mais informações, consulte about_Execution_Policies em 
+#https://go.microsoft.com/fwlink/?LinkID=135170.
+#Executar via CMD
+
+#bootstrap
+ > npm install bootstrap
+
+# Para importar Layout com estrelas
+> npm install font-awesome
+
+#Git
+  git config --global user.email "heliordf@hotmail.com"
+  git config --global user.name "Helio Franca"
