@@ -13,10 +13,14 @@
   #Conferir a versão
   > ng version
 
+#Iniciar o projeto
+ >ng new
+
 - Visual studio code
 
 #Iniciar o servidor (Ler erro)
  >ng serve
+ >ng serve --port 9090
 #Acesssar http://localhost:4200/
 
 #Erro
@@ -33,3 +37,7 @@
 #Git
   git config --global user.email "heliordf@hotmail.com"
   git config --global user.name "Helio Franca"
+
+
+###############################################################################################################################################################
+
