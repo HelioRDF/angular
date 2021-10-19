@@ -1,0 +1,51 @@
+#############################################################
+- Server API
+#instalar plugin material icon theme no vs code
+#instalar plugin auto-import no vs code
+
+#Criar o package.json 
+# -y responde tudo com o padrão
+ > npn init -y
+
+#Json Server
+ > npm i json-server
+
+#Iniciar
+ > npm start
+
+#############################################################
+
+#Desinstalar angula, caso necessário
+ > npm uninstall -g @angular/cli
+
+#Instalar o Angular 
+ > npm i -g @angular/cli@9
+
+# Novo projeto 
+#--mininal cria com o minimo necessário
+ > ng new frontend --minimal
+
+#iniciar
+ > npm start
+
+#Instalar o material design
+ > ng add @angular/material 
+   ou
+ > npm install @angular/material 
+
+#Criar componente
+ > ng generate component components/product/product-read
+ > ng generate component views/product-crud
+
+#Criar serve para comunicação com o backend
+ > ng generate s components/products/product
+
+---------------------------------------------------------------
+#schematics
+#https://material.angular.io/guide/schematics
+ng generate @angular/material:table components/product/product-read2
+
+
+
+
+

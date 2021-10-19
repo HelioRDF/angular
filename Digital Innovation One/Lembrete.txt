@@ -1,4 +1,4 @@
-#Instalar
+#Instalar node versão 12
 - Node.js
   #Conferir a versão
   > noode -v 
@@ -8,8 +8,8 @@
   > npm -v
 
 
-- Angular cli
-  > npm install -g @angular/cli
+- Angular cli versão 8
+  > npm install -g @angular/cli@8
   #Conferir a versão
   > ng version
 
@@ -20,7 +20,7 @@
 
 #Iniciar o servidor (Ler erro)
  >ng serve
- >ng serve --port 9090
+ >ng serve --port 8080
 #Acesssar http://localhost:4200/
 
 #Erro

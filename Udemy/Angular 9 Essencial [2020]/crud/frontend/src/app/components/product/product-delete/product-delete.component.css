@@ -1,0 +1,9 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.bt{
+    background-color: #7a0606;
+    color: #fff;
+}

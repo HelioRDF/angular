@@ -1,0 +1,4 @@
+#Instalar node.Js
+
+#Instalar angular cli versão 10
+>npm install -g @angular/cli@10
